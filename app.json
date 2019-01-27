@@ -2,6 +2,6 @@
   "name": "Laravel Nginx Starter Kit",
   "description": "Use nginx server for your heroku laravel apps",
   "repository": "https://github.com/manfordbenjamin/laravel-heroku-nginx-strater-kit",
-  "logo": "https://laravel-heroku-nginx-strater-k.herokuapp.com/icon.png",
+  "logo": "https://raw.githubusercontent.com/manfordbenjamin/laravel-heroku-nginx-strater-kit/master/icon.png",
   "keywords": ["laravel", "php", "nginx", "heroku"]
 }
