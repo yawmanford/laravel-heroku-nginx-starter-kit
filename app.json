@@ -3,5 +3,8 @@
   "description": "Use nginx server for your heroku laravel apps",
   "repository": "https://github.com/manfordbenjamin/laravel-heroku-nginx-strater-kit",
   "logo": "https://raw.githubusercontent.com/manfordbenjamin/laravel-heroku-nginx-strater-kit/master/icon.png",
-  "keywords": ["laravel", "php", "nginx", "heroku"]
+  "keywords": ["laravel", "php", "nginx", "heroku"],
+  "env": {
+    "APP_KEY": "ZEqur46KTEG91iWPhKGY42wtwi3nginx"
+  }
 }
